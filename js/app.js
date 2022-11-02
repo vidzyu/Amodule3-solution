@@ -33,7 +33,7 @@ function FoundItemsDirectiveController() {
 }
 
 
-//CONTROLLERS ***********************************************************
+//Controllers
 NarrowItDownController.$inject = ['MenuSearchService'];
 function NarrowItDownController(MenuSearchService) {
   var narrowItCtrl = this;
